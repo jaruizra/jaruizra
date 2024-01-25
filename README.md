@@ -12,11 +12,9 @@
 
 - With a license as a **drone pilot, love for rc planes and drones, specially the fpv hobby.**
 
-- Im currently learning [JavaScript, Node.js, Networking security, Network protocols, WSL2]
+- Im currently learning [C, C++, Networking security, Network protocols, WSL2]
 
 - Im currently working on [Proxmox VM, web scrapping, Docker, TrueNAS]
-
-- You can reach me via email at **rura.javier@gmail.com**
 
 - In also enjoy [3D design and rendering, SketchUp and Twinmotion](3D design and rendering, SketchUp and Twinmotion)
 
